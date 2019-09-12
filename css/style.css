@@ -1,0 +1,34 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+	color: "#000080";
+}
+
+.box
+{
+	position: absolute;
+	top: 25%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.infographics
+{  
+   position: absolute;
+   height:"200%"; 
+   width:"200%";
+   top: 70%;
+   left: 45%;
+   transform: translate(-50%,-50%);
+}
+
+.footer
+{
+   position: fixed;
+   top: 98%; 
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
